@@ -1,7 +1,4 @@
-# Machine Learning Project
-
-Data source https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
-Data: diabetics_data.csv
+# Machine Learning Project - Diabetes
 
 Goal: Predict whether a diabetic patient will be readmitted to the hospital within 30 days.
 Notebook: diabetes.ipynb
@@ -9,3 +6,6 @@ Notebook: diabetes.ipynb
 2. Feature engineering.
 3. Training, validation and testing samples.
 4. Modeling
+
+Data source https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+Data: diabetics_data.csv
